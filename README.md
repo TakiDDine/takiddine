@@ -25,6 +25,25 @@ Last year i've been heavily involved in Software Quality Control/Assurance, Soft
 
 
 
+
+### My Technical Knowledge  
+
+⚡ Object-Oriented Programming 
+
+⚡ Backend Development with PHP/Laravel Framework 
+
+⚡ Frontend Development with React/Vue JS 
+
+⚡ API integration/development 
+
+⚡ Hybrid/Progressive web application development 
+
+⚡ Proficient in Linux  
+
+
+-------------------
+
+
 📫 How to reach me: takiddine.job@gmail.com
 
 🔗 My website: https://www.takiddine.com/
